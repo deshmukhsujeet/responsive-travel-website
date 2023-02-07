@@ -1,7 +1,7 @@
 # Responsive Travel Website 🌊
 ## [Watch it on youtube](https://youtu.be/YzRDHxbw1RU)
 ###  Responsive Travel Website 🌊
-
+- Welcome to our Travel site at the end of file.
 - Travel website to the most beautiful beaches, using HTML, CSS & JAVASCRIPT.
 - Contains animations when scrolling.
 - Includes a dark and light mode.
